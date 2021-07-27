@@ -70,7 +70,7 @@ const customNavigation = [{
   url: '/contact'
 }]; // Incremental Static Regenerations (ISR)
 
-const isr = true;
+const isr = false;
 const maxNumberOfPosts = 20;
 const maxNumberOfPages = 20;
 

@@ -10,7 +10,7 @@
 /compare
 
 # next.js
-/.next/
+# /.next/
 /out/
 
 # production
@@ -26,7 +26,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -40,3 +39,13 @@ yarn-error.log*
 
 # cache
 /.cache
+
+# Ghost
+!ghost/
+ghost/*
+!ghost/config.development.json
+!ghost/content/
+ghost/content/*
+!ghost/content/data/
+ghost/content/data/*
+!ghost/content/data/ghost-local.db

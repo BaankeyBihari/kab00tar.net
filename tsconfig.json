@@ -83,7 +83,7 @@
     "isolatedModules": true
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.js"],
-  "exclude": ["node_modules", "types", ".next", "out"]
+  "exclude": ["node_modules", "types", ".next", "out", "ghost"]
 }
 
 //include[".next/common/icons/avatar-icon.tsx"]

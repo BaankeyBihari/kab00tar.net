@@ -10,7 +10,7 @@ Main purpose of this fork is to eliminate use running Ghost installation.
 
 ## 🎉 Demo
 
-Play with the [Demo](https://next-cms-ghost.baankeybihari.com) to get a first impression.
+Play with the [Demo](https://next-cms-ghost-local.baankeybihari.com) to get a first impression.
 
 &nbsp;
 

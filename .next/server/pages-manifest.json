@@ -1,0 +1,13 @@
+{
+  "/404": "pages/404.js",
+  "/[...slug]": "pages/[...slug].js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/v1/contact": "pages/api/v1/contact.js",
+  "/api/v1/preview": "pages/api/v1/preview.js",
+  "/author/[...slug]": "pages/author/[...slug].js",
+  "/": "pages/index.js",
+  "/rss.xml": "pages/rss.xml.js",
+  "/tag/[...slug]": "pages/tag/[...slug].js",
+  "/_error": "pages/_error.js"
+}

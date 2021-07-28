@@ -10,7 +10,7 @@ interface PostItemsProps {
 export const PostItems = ({ settings, posts, isHome }: PostItemsProps) => (
   <>
     {posts.map((post, i) => (
-      <PostCard key={i} {...{settings, post, isHome, num: i }} />
+      <PostCard key={i} {...{ settings, post, isHome, num: i }} />
     ))}
   </>
 )

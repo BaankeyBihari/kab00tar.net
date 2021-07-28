@@ -11,8 +11,8 @@ import '@styles/toc.css'
 
 function App({ Component, pageProps }: AppProps) {
   return (
-    <ThemeProvider {...processEnv.darkMode} >
-      <OverlayProvider >
+    <ThemeProvider {...processEnv.darkMode}>
+      <OverlayProvider>
         <Component {...pageProps} />
       </OverlayProvider>
     </ThemeProvider>

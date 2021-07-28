@@ -406,10 +406,10 @@ const Subscribe = ({
 };
 ;// CONCATENATED MODULE: ./components/effects/UseActiveHash.tsx
 /**
-*
-* Further info 👉🏼 https://github.com/gatsbyjs/gatsby/blob/master/www/src/hooks/use-active-hash.js
-*
-*/
+ *
+ * Further info 👉🏼 https://github.com/gatsbyjs/gatsby/blob/master/www/src/hooks/use-active-hash.js
+ *
+ */
 
 const useActiveHash = (itemIds, rootMargin = undefined) => {
   const {

@@ -43,7 +43,6 @@ yarn-error.log*
 # Ghost
 !ghost/
 ghost/*
-!ghost/config.development.json
 !ghost/content/
 ghost/content/*
 !ghost/content/data/

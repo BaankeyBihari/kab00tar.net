@@ -280,7 +280,7 @@ const DocumentHead = ({
    * 1. saves 5 KB in bundle size
    * 2. allows strict mode in next.config
    *
-  */
+   */
 
   (0,external_react_.useEffect)(() => {
     const body = document.querySelector('body');
